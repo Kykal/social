@@ -1,0 +1,22 @@
+[
+   {
+      "id": 0,
+      "label": "Twitch",
+      "href": "https://www.twitch.tv/kykaltv"
+   },
+   {
+      "id": 1,
+      "label": "Twitter",
+      "href": "https://twitter.com/KykalTV"
+   },
+   {
+      "id": 2,
+      "label": "YouTube",
+      "href": "https://www.youtube.com/channel/UC09miVlGSJLOF1niMBFoaMw"
+   },
+   {
+      "id": 3,
+      "label": "Facebook",
+      "href": "https://www.facebook.com/KykalTV"
+   }
+]
