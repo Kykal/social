@@ -5,4 +5,5 @@ Sitio web en donde muestro todas mis redes sociales.
 1. [Dependencias](#dependencias)
 - - -
 ## Dependencias
+- [Mantine](https://mantine.dev/)
 - [react-icons](https://react-icons.github.io/react-icons/)
