@@ -4,10 +4,12 @@
 
 # Social
 Sitio web en donde muestro todas mis redes sociales.
+Puedes visitar el sitio web dando [clic aquí](https://kykal.github.io/social/)
 - - -
 # Contenido
-1. [Dependencias](#dependencias)
-- - -
+- [Social](#social)
+- [Contenido](#contenido)
+  - [Dependencias](#dependencias)
 ## Dependencias
 - [Mantine](https://mantine.dev/)
 - [react-icons](https://react-icons.github.io/react-icons/)
